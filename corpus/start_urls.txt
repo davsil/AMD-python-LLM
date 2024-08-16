@@ -1,0 +1,15 @@
+https://amdgpu-install.readthedocs.io/en/latest, https://amdgpu-install.readthedocs.io
+https://community.amd.com/t5/adaptive-computing/bg-p/amd-adaptive-computing, https://community.amd.com/t5/adaptive-computing
+https://community.amd.com/t5/ai/bg-p/amd-ai, https://community.amd.com/t5/ai
+https://community.amd.com/t5/business/bg-p/amd-business-blogs, https://community.amd.com/t5/business
+https://community.amd.com/t5/corporate/bg-p/amd-corporate-blogs, https://community.amd.com/t5/corporate
+https://community.amd.com/t5/epyc-processors/bg-p/amd-epyc-processors, https://community.amd.com/t5/epyc-processors
+https://community.amd.com/t5/gaming/bg-p/gaming-blogs, https://community.amd.com/t5/gaming
+https://community.amd.com/t5/instinct-accelerators/bg-p/amd-accelerators-blogs, https://community.amd.com/t5/instinct-accelerators
+https://gpuopen.com/learn/amd-lab-notes/amd-lab-notes-readme, https://gpuopen.com/learn/amd-lab-notes
+https://ir.amd.com/news-events/press-releases?year=2023&category=all, https://ir.amd.com/news-events/press-releases?year=2023
+https://ir.amd.com/news-events/press-releases?year=2024&category=all, https://ir.amd.com/news-events/press-releases?year=2024
+https://rocm.blogs.amd.com, https://rocm.blogs.amd.com
+https://rocm.docs.amd.com/en/latest, https://rocm.docs.amd.com
+https://rocm.docs.amd.com/projects/HIPIFY/en/latest, https://rocm.docs.amd.com/projects/HIPIFY
+https://rocm.docs.amd.com/projects/radeon/en/latest, https://rocm.docs.amd.com/projects/radeon
