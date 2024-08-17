@@ -1,0 +1,46 @@
+AMD64_Architecture_Programmers_Manual_Volumes_1-5.pdf
+4th-gen-amd-epyc-processor-architecture-whitepaper.pdf
+58002_amd-epyc-9004-tg-hpc.pdf
+58015-epyc-9004-tg-architecture-overview.pdf
+58268_amd-epyc-8004-tg-architecture-overview.pdf
+5-reasons-why-ai-inference-on-epyc-processors.pdf
+5-reasons-why-epyc-processors-for-ai.pdf
+ai-inferencing-with-amd-epyc-processors-white-paper.pdf
+alveo-v80-product-brief.pdf
+amd-cdna2-white-paper.pdf
+amd-cdna-3-white-paper.pdf
+amd-epyc-8004-and-9004-series-cpu-power-management-white-paper.pdf
+amd-epyc-9004-pb-tpcx-ai-vs-emr.pdf
+amd-epyc-9004-ug-nutanix-llm.pdf
+AMD_GPU_HIP_training_20190906.pdf
+amd-instinct-mi300a-data-sheet.pdf
+amd-instinct-mi300-cdna3-instruction-set-architecture.pdf
+amd-instinct-mi300x-data-sheet.pdf
+amd-instinct-mi300x-platform-data-sheet.pdf
+AMD_Instinct.pdf (from Wikipedia)
+AMD.pdf (from Wikipedia)
+amd-ryzen-threadripper-pro-workstation-raising-the-bar-white-paper.pdf
+datasheet_H13_8U_8GPU_MI300.pdf
+epyc-9004-wp-maxlinear-vs-qat.pdf
+Epyc.pdf (from Wikipedia)
+gpu-accelerated-applications-catalog.pdf
+hpc-datasheet-sc23-h200-datasheet-3002446.pdf
+instinct-lammps-tech-brief.pdf
+instinct-mi100-brochure.pdf
+instinct-mi100-cdna1-shader-instruction-set-architecture.pdf
+instinct-mi200-cdna2-instruction-set-architecture.pdf
+instinct-mi200-datasheet.pdf
+instinct-mi210-brochure.pdf
+instinct-namd-tech-brief.pdf
+kr260-product-brief.pdf
+LenovoAdvancesHybridAI.pdf
+nvidia-blackwell-architecture-technical-brief.pdf
+qsg-radeon-rx7800xt.pdf
+quick-start-guide-amd-radeon-7900-xtx.pdf
+Radeon.pdf (from Wikipedia)
+rocm-docs-amd-com-radeon-en-latest.pdf
+ROCm.pdf (from Wikipedia)
+Ryzen.pdf (from Wikipedia)
+Threadripper.pdf (from Wikipedia)
+threadripperpro-technicalbrief-me.pdf
+Xilinx.pdf (from Wikipedia)
