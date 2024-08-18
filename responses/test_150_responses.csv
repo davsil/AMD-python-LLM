@@ -1,4 +1,4 @@
-Question;Answer_model1;Answer_model2
+Question;Response_Llama3_1-8B-Instruct;Response_Llama3_1-8B-Instruct-AMD-python
 How does AMD's latest architecture improve GPU performance in deep learning models?;"AMD's latest architecture, known as RDNA 3 (Radeon DNA 3), introduces several significant improvements that enhance GPU performance in deep learning models. Here are some key features and benefits:
 
 1. **Increased Compute Units (CUs)**: RDNA 3 GPUs feature up to 96 CUs, which provide a substantial boost in computing power. This allows for faster training and inference times in deep learning workloads.
